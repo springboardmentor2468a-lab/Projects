@@ -19,7 +19,7 @@ df = pd.read_csv("Indian_Kids_Screen_Time.csv")
 # Check if there are any missing values
 print(df.isnull().values.any())
 
-# Or count missing values in each column
+# count missing values in each column
 print(df.isnull().sum())
 
 df = pd.read_csv("Indian_Kids_Screen_Time.csv")
@@ -47,4 +47,4 @@ correlation = df['Age'].corr(df['Avg_Daily_Screen_Time_hr'])
 
 print("Correlation between Age and Avg_Daily_Screen_Time_hr:", correlation)
 
-"""# New Section"""
+
