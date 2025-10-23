@@ -1,4 +1,5 @@
 📊 Indian Kids Screen Time Analysis
+
 📁 Project Overview
 
 This Power BI project analyzes screen time habits among Indian children, focusing on device usage patterns, time spent, and health impacts. The dashboard provides insights into how different factors — such as device category, age group, and location type (urban/rural) — influence screen time behavior and well-being.
@@ -49,7 +50,7 @@ Insights on digital health awareness among Indian kids
 
 📷 Preview
 
-link
+https://github.com/springboardmentor2468a-lab/Projects/blob/Thanuja-Gogada/dashboardss.png
 
 🧩 How to Use
 
@@ -67,8 +68,5 @@ Practiced data modeling and visualization best practices.
 
 Improved analytical understanding of child screen-time behavior.
 
-🧑‍💻 Author
 
-Gogada Thanuja
-📧thanujagogada123@gmail.com 
 
