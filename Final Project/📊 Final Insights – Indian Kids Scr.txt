@@ -1,0 +1,93 @@
+📊 Final Insights – Indian Kids Screen Time Dashboard
+🧒 1. Overview
+
+The dashboard analyzes how much time Indian children spend on digital devices daily.
+
+It highlights usage trends, device preferences, health impacts, and parental influence.
+
+💻 2. Device Usage
+
+Mobile phones are the most used devices by children.
+
+Tablets and laptops are mainly used for online learning.
+
+TV usage has decreased compared to mobile and tablet usage.
+
+Children prefer smart devices for both education and entertainment.
+
+⏰ 3. Average Screen Time
+
+The average daily screen time is around 3–5 hours.
+
+Screen time increases on weekends compared to weekdays.
+
+Teenagers spend more time on screens than younger children.
+
+🎮 4. Purpose of Screen Usage
+
+Entertainment (YouTube, games, OTT) takes up the largest portion.
+
+Education-related activities come second, mainly during school hours.
+
+Social media usage starts at a young age and increases with age.
+
+Children often multitask — watching videos while doing homework.
+
+⚕️ 5. Health and Lifestyle Impact
+
+High screen exposure leads to eye strain, sleep issues, and less physical activity.
+
+Excessive use causes concentration problems in academics.
+
+Balanced use promotes better mood and performance.
+
+More screen time → less outdoor play and reduced social interaction.
+
+👨‍👩‍👧 6. Parental Monitoring
+
+Parents who set screen limits report healthier digital behavior in kids.
+
+Unmonitored screen use leads to late-night gadget usage.
+
+Parental involvement improves content quality and time control.
+
+📈 7. Key Trends & Correlations
+
+Older children → longer daily screen hours.
+
+Urban kids → higher device use due to digital access.
+
+Less outdoor activity → more screen dependency.
+
+Moderate use correlates with better mental health outcomes.
+
+🧠 8. Conclusion & Recommendations
+
+Promote digital balance — limit screen time to 2–3 hours per day.
+
+Encourage learning-based and creative apps over entertainment.
+
+Schools and parents should work together on digital awareness.
+
+Regular breaks from screens and outdoor play are essential for a healthy lifestyle.
+ Observations from the Project
+
+While analyzing the dataset, it was observed that screen time varies significantly by age group, with a sharp rise during teenage years (13–17 years).
+
+Boys tend to spend slightly more time on gaming and video content compared to girls, who use devices more for educational and social activities.
+
+During exam seasons or school holidays, screen time fluctuates — higher during vacations and lower during exams.
+
+A noticeable pattern was seen where children using devices for learning purposes had more balanced screen habits compared to those using them mainly for entertainment.
+
+In many cases, urban children have more access to multiple devices, while rural children mostly use shared family devices.
+
+There’s a visible connection between parental education level and screen regulation — educated parents tend to enforce better digital discipline.
+
+Some children use multiple devices simultaneously (e.g., watching videos on mobile while using a tablet), leading to higher cumulative screen time.
+
+Data shows that even small increases in daily screen hours impact sleep quality and outdoor activity noticeably.
+
+Creating the dashboard helped identify how data visualization makes behavioral patterns easier to interpret than raw data.
+
+Building this project improved my understanding of data cleaning, visualization techniques, and storytelling through Power BI dashboards.
