@@ -1,0 +1,16 @@
+Age,Age_Group,Gender,Avg_Daily_Screen_Time_hr,awareness,Primary_Device,Device_Category,Screen_Size,Exceeded_Recommended_Limit,Educational_to_Recreational_Ratio,Health_Impacts,Health_Impact_Category,Urban_or_Rural
+12,Child,Male,4,Yes,Tablet,Mobile,10,No,0.7,Eye Strain,Mild,Urban
+15,Teen,Female,6,Yes,Laptop,Computer,15,Yes,0.5,Headache,Moderate,Urban
+22,Young Adult,Male,8,No,Smartphone,Mobile,6,Yes,0.0,Insomnia,Moderate,Rural
+35,Adult,Female,3,Yes,Laptop,Computer,14,No,0.8,Neck Pain,Mild,Urban
+45,Adult,Male,5,No,Tablet,Mobile,10,Yes,0.4,Eye Strain,Moderate,Rural
+60,Senior,Female,2,Yes,TV,Entertainment,50,No,0.9,Back Pain,Mild,Urban
+8,Child,Female,3,No,Smartphone,Mobile,5,No,0.6,Fatigue,Mild,Rural
+17,Teen,Male,7,Yes,Laptop,Computer,13,Yes,0.5,Headache,Moderate,Urban
+28,Young Adult,Female,9,No,Smartphone,Mobile,6,Yes,0.3,Insomnia,Severe,Urban
+40,Adult,Male,4,Yes,TV,Entertainment,48,No,0.7,Eye Strain,Mild,Rural
+55,Adult,Female,6,No,Laptop,Computer,15,Yes,0.4,Neck Pain,Moderate,Urban
+70,Senior,Male,2,Yes,Tablet,Mobile,12,No,0.8,Back Pain,Mild,Rural
+10,Child,Male,5,No,Smartphone,Mobile,5,Yes,0.5,Fatigue,Moderate,Urban
+19,Teen,Female,8,Yes,Laptop,Computer,14,Yes,0.6,Headache,Severe,Urban
+33,Adult,Male,7,No,Smartphone,Mobile,6,Yes,0.4,Insomnia,Moderate,Rural

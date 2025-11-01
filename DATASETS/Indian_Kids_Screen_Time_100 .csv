@@ -1,0 +1,101 @@
+Age_Group,Gender,Urban_or_Rural,Device_Category,Primary_Device,Avg_Daily_Screen_Time_hr,awareness,Exceeded_Recommended_Limit,Health_Impact_Category
+Late Teen,Female,Rural,Portable,Smartphone,7.2,Moderate,No,Anxiety
+Pre-teen,Female,Urban,Wallmounted,Laptop,7.6,Highly Aware,Yes,Eye Strain
+Late Teen,Female,Urban,Portable,Laptop,7.9,Need Attention,Yes,Sleep Disruption
+Late Teen,Male,Rural,Portable,TV,5.1,Moderate,Yes,Anxiety
+Pre-teen,Male,Urban,Portable,TV,5.0,Need Attention,Yes,Anxiety
+Pre-teen,Male,Urban,Wallmounted,Tablet,7.1,Need Attention,Yes,Eye Strain
+Late Teen,Male,Urban,Wallmounted,TV,6.0,Highly Aware,No,Eye Strain
+Teenager,Female,Urban,Portable,Tablet,6.4,Moderate,Yes,Eye Strain
+Late Teen,Male,Rural,Wallmounted,Tablet,7.1,No Harm,Yes,Sleep Disruption
+Late Teen,Male,Urban,Portable,Tablet,7.7,Highly Aware,Yes,Eye Strain
+Late Teen,Male,Rural,Portable,Tablet,3.9,Moderate,No,Anxiety
+Late Teen,Male,Urban,Wallmounted,Tablet,4.1,Moderate,No,Anxiety
+Pre-teen,Male,Urban,Wallmounted,Smartphone,2.2,Moderate,Yes,Eye Strain
+Late Teen,Female,Urban,Portable,TV,5.5,Moderate,Yes,Eye Strain
+Teenager,Male,Urban,Wallmounted,Tablet,1.8,Moderate,No,None
+Pre-teen,Female,Rural,Wallmounted,Laptop,4.8,Need Attention,Yes,Anxiety
+Teenager,Male,Rural,Portable,TV,5.3,Highly Aware,No,Sleep Disruption
+Teenager,Female,Urban,Portable,TV,3.5,Need Attention,No,None
+Teenager,Male,Urban,Wallmounted,Tablet,5.6,No Harm,Yes,Eye Strain
+Teenager,Male,Rural,Portable,Smartphone,1.7,Moderate,Yes,Eye Strain
+Pre-teen,Female,Urban,Portable,Tablet,1.8,Highly Aware,No,Anxiety
+Pre-teen,Female,Urban,Wallmounted,Smartphone,7.3,Moderate,Yes,Eye Strain
+Teenager,Female,Urban,Portable,Laptop,4.0,Highly Aware,Yes,Sleep Disruption
+Teenager,Male,Rural,Portable,TV,2.4,Need Attention,No,Anxiety
+Pre-teen,Female,Rural,Wallmounted,Laptop,5.2,Highly Aware,No,Eye Strain
+Pre-teen,Male,Rural,Wallmounted,Smartphone,6.9,No Harm,No,Anxiety
+Pre-teen,Male,Urban,Portable,Smartphone,3.0,No Harm,No,Eye Strain
+Late Teen,Female,Urban,Portable,Laptop,5.9,Highly Aware,Yes,Eye Strain
+Late Teen,Female,Rural,Wallmounted,Smartphone,2.1,Highly Aware,Yes,Eye Strain
+Late Teen,Male,Rural,Wallmounted,Laptop,1.9,Highly Aware,No,Sleep Disruption
+Teenager,Male,Rural,Wallmounted,TV,5.2,Highly Aware,Yes,Sleep Disruption
+Late Teen,Female,Rural,Wallmounted,Laptop,5.3,No Harm,Yes,Anxiety
+Teenager,Female,Urban,Portable,TV,6.0,Moderate,No,Eye Strain
+Teenager,Female,Rural,Wallmounted,Laptop,6.6,Highly Aware,Yes,Eye Strain
+Late Teen,Male,Urban,Wallmounted,Smartphone,8.3,Highly Aware,Yes,Sleep Disruption
+Teenager,Male,Rural,Portable,Laptop,5.1,No Harm,Yes,Eye Strain
+Late Teen,Male,Urban,Wallmounted,Smartphone,3.8,No Harm,Yes,Sleep Disruption
+Late Teen,Male,Rural,Portable,Laptop,7.1,Need Attention,Yes,Eye Strain
+Pre-teen,Male,Rural,Wallmounted,Laptop,3.4,Highly Aware,Yes,Anxiety
+Late Teen,Male,Rural,Wallmounted,Tablet,4.6,Need Attention,Yes,Eye Strain
+Pre-teen,Female,Rural,Wallmounted,Smartphone,2.0,No Harm,No,Eye Strain
+Late Teen,Male,Urban,Portable,Tablet,1.7,No Harm,No,None
+Late Teen,Male,Rural,Portable,Smartphone,8.2,Moderate,Yes,Sleep Disruption
+Pre-teen,Male,Urban,Wallmounted,Tablet,7.4,Highly Aware,No,Eye Strain
+Pre-teen,Female,Urban,Portable,TV,6.4,Need Attention,Yes,Eye Strain
+Late Teen,Male,Urban,Portable,Laptop,4.4,No Harm,Yes,None
+Teenager,Male,Urban,Portable,Smartphone,2.7,No Harm,No,None
+Pre-teen,Female,Rural,Portable,Smartphone,2.6,Need Attention,Yes,Sleep Disruption
+Teenager,Male,Urban,Portable,Laptop,3.3,Moderate,No,None
+Teenager,Male,Urban,Portable,Smartphone,5.3,No Harm,Yes,Anxiety
+Teenager,Male,Urban,Wallmounted,Smartphone,6.5,Highly Aware,No,None
+Pre-teen,Male,Rural,Wallmounted,Tablet,6.1,No Harm,Yes,Anxiety
+Teenager,Male,Rural,Portable,Smartphone,3.5,Highly Aware,No,Sleep Disruption
+Pre-teen,Female,Rural,Wallmounted,TV,8.2,Need Attention,Yes,Sleep Disruption
+Teenager,Female,Rural,Wallmounted,TV,6.7,Highly Aware,No,Sleep Disruption
+Late Teen,Female,Urban,Wallmounted,Laptop,5.4,Need Attention,Yes,Sleep Disruption
+Late Teen,Male,Urban,Wallmounted,Smartphone,5.8,Highly Aware,Yes,Sleep Disruption
+Pre-teen,Male,Rural,Portable,Laptop,4.4,Need Attention,No,Anxiety
+Late Teen,Male,Urban,Wallmounted,TV,3.2,Highly Aware,Yes,Anxiety
+Late Teen,Female,Urban,Wallmounted,Smartphone,4.0,Moderate,No,Sleep Disruption
+Teenager,Male,Urban,Portable,Smartphone,6.8,Highly Aware,No,None
+Pre-teen,Male,Rural,Portable,Laptop,1.6,Highly Aware,Yes,Eye Strain
+Teenager,Female,Rural,Wallmounted,TV,2.3,Moderate,No,Sleep Disruption
+Teenager,Male,Urban,Wallmounted,Smartphone,1.8,No Harm,Yes,None
+Teenager,Female,Rural,Wallmounted,Laptop,1.8,No Harm,No,Eye Strain
+Teenager,Female,Rural,Wallmounted,TV,7.5,Highly Aware,Yes,Sleep Disruption
+Teenager,Female,Rural,Wallmounted,Laptop,6.4,Moderate,Yes,Sleep Disruption
+Teenager,Male,Rural,Wallmounted,Tablet,4.8,Highly Aware,No,Anxiety
+Teenager,Male,Rural,Portable,Smartphone,2.2,Need Attention,No,Eye Strain
+Pre-teen,Male,Urban,Wallmounted,Tablet,4.9,Need Attention,Yes,Eye Strain
+Late Teen,Male,Rural,Wallmounted,TV,4.8,Highly Aware,No,None
+Teenager,Male,Urban,Portable,Tablet,2.7,No Harm,Yes,Anxiety
+Teenager,Male,Urban,Portable,Tablet,4.5,No Harm,Yes,Anxiety
+Teenager,Male,Rural,Portable,TV,4.3,Highly Aware,Yes,Anxiety
+Teenager,Female,Urban,Portable,Laptop,5.8,Highly Aware,Yes,Anxiety
+Teenager,Male,Urban,Wallmounted,Tablet,5.9,Need Attention,Yes,Eye Strain
+Teenager,Female,Urban,Wallmounted,Laptop,1.8,No Harm,Yes,Eye Strain
+Late Teen,Male,Rural,Wallmounted,Tablet,4.1,Highly Aware,No,Sleep Disruption
+Late Teen,Male,Rural,Wallmounted,Laptop,5.9,Need Attention,No,Sleep Disruption
+Teenager,Male,Urban,Wallmounted,TV,5.0,No Harm,No,Anxiety
+Late Teen,Female,Rural,Wallmounted,Tablet,7.5,Moderate,Yes,Anxiety
+Pre-teen,Female,Rural,Portable,TV,6.1,Need Attention,Yes,Anxiety
+Teenager,Female,Rural,Wallmounted,Tablet,2.6,No Harm,No,Sleep Disruption
+Pre-teen,Female,Rural,Portable,TV,2.0,No Harm,No,None
+Pre-teen,Male,Urban,Portable,TV,6.0,Need Attention,Yes,None
+Teenager,Female,Urban,Wallmounted,Tablet,1.7,Moderate,No,Sleep Disruption
+Late Teen,Male,Rural,Portable,Tablet,5.6,Need Attention,No,Sleep Disruption
+Pre-teen,Male,Rural,Wallmounted,Tablet,8.1,No Harm,No,Sleep Disruption
+Teenager,Female,Urban,Portable,Smartphone,5.5,Highly Aware,No,Sleep Disruption
+Pre-teen,Female,Urban,Wallmounted,Laptop,4.2,Highly Aware,No,Sleep Disruption
+Pre-teen,Female,Rural,Portable,Smartphone,6.0,Need Attention,Yes,Sleep Disruption
+Pre-teen,Female,Urban,Wallmounted,Smartphone,4.7,No Harm,No,Anxiety
+Pre-teen,Female,Rural,Wallmounted,TV,5.3,Highly Aware,No,Anxiety
+Late Teen,Female,Rural,Wallmounted,Tablet,8.1,No Harm,Yes,Anxiety
+Pre-teen,Female,Urban,Wallmounted,Laptop,4.2,Need Attention,Yes,Anxiety
+Pre-teen,Female,Urban,Wallmounted,TV,8.2,Highly Aware,Yes,Sleep Disruption
+Pre-teen,Male,Rural,Portable,Smartphone,7.8,No Harm,No,None
+Late Teen,Female,Rural,Portable,Tablet,2.9,Highly Aware,No,Eye Strain
+Pre-teen,Female,Urban,Portable,TV,2.0,Need Attention,Yes,Sleep Disruption
+Pre-teen,Male,Rural,Wallmounted,Tablet,2.2,No Harm,Yes,Eye Strain
