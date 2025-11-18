@@ -119,7 +119,7 @@ Complete GitHub repository with documentation
 
 
 
-**Project Supervisor
+**Project Supervisor**
 
-Nalla Suman**
+Nalla Suman
 📧 springboardmentor2468a@gmail.com
