@@ -1,9 +1,9 @@
-DV ScreenSense – Indian Kids Screen Time Study (2025)
-Project Summary
+**DV ScreenSense – Indian Kids Screen Time Study (2025)**
+**Project Summary**
 
 DV ScreenSense is a data-driven initiative focused on examining screen-time habits among Indian children. The project studies how screen usage varies across age groups, gender, geographic location (urban vs rural), device categories, activities, and daily patterns. Insights from this analysis aim to support parents, educators, policymakers, and child-wellbeing experts with factual, easy-to-understand visual reports.
 
-Project Goals
+**Project Goals**
 
 Ensure the dataset is thoroughly cleaned and prepared for reliable analysis.
 
@@ -17,7 +17,7 @@ Build user-friendly dashboards and reports suitable for non-technical audiences.
 
 Deliver a polished final presentation summarizing insights and recommendations.
 
-Dataset Information
+**Dataset Information**
 
 Platform: Kaggle
 
@@ -27,24 +27,24 @@ Format: CSV
 
 Content: Demographic details, device usage, screen-time duration, activity categories, and more.
 
-Technology Stack
-Data Processing
+**Technology Stack**
+1. Data Processing
 
 Python, Pandas, NumPy
 
-Visualization
+2. Visualization
 
 Matplotlib, Seaborn, Plotly
 
-Interactive Dashboards
+3. Interactive Dashboards
 
 Tableau, Power BI
 
-Documentation
+4. Documentation
 
 Jupyter Notebook, GitHub, PDF reports
 
-Project Workflow
+**Project Workflow**
 
 The project is divided into multiple modules to maintain clarity and structure:
 
@@ -64,8 +64,8 @@ Dashboard Development (Tableau / Power BI)
 
 Final Presentation & Documentation
 
-8-Week Progress Plan
-Week 1
+**8-Week Progress Plan
+Week 1**
 
 Set up repository
 
@@ -73,7 +73,7 @@ Load and review dataset
 
 Study dataset schema and structure
 
-Week 2
+**Week 2**
 
 Clean data
 
@@ -81,35 +81,35 @@ Handle missing/incorrect values
 
 Create derived features
 
-Week 3
+**Week 3**
 
 Univariate and bivariate visual examination
 
 Understand distribution and relationships
 
-Week 4
+**Week 4**
 
 Analyze device and activity preferences
 
 Compare weekday vs weekend screen habits
 
-Week 5
+**Week 5**
 
 Perform cohort-based insights
 
 (Ex: age vs device type, gender vs activity type)
 
-Week 6
+**Week 6**
 
 Detect recurring patterns, routines, or seasonal usage shifts
 
-Week 7
+**Week 7**
 
 Build dashboards using Tableau/Power BI
 
 Prepare charts and KPI summaries
 
-Week 8
+**Week 8**
 
 Final report writing
 
@@ -119,7 +119,7 @@ Complete GitHub repository with documentation
 
 
 
-Project Supervisor
+**Project Supervisor
 
-Nalla Suman
+Nalla Suman**
 📧 springboardmentor2468a@gmail.com
